@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python-generated files
 __pycache__/
 *.py[oc]
@@ -8,3 +9,8 @@ wheels/
 
 # Virtual environments
 .venv
+=======
+.env
+venv/
+__pycache__/
+>>>>>>> cd039540041af558d11acdac2161f223881e607b
